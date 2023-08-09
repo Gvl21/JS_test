@@ -29,7 +29,7 @@ const quotes = [
     author: 'Mae West',
   },
   {
-    quote: 'Never go on trips with anyone you do ntot love.',
+    quote: 'Never go on trips with anyone you do not love.',
     author: 'Hemmingway',
   },
   {
@@ -37,7 +37,7 @@ const quotes = [
     author: '찰스 다윈',
   },
   {
-    quote: '랫동안 꿈을 그리는 사람은 마침내 그 꿈을 닮아 간다.',
+    quote: ' 오랫동안 꿈을 그리는 사람은 마침내 그 꿈을 닮아 간다.',
     author: '앙드레 말로',
   },
 ];
